@@ -34,12 +34,16 @@ the below steps are based on InfoGAN model, others have similar steps,
 > python Inference_Mnist.py
 ```
 
+<img align='center' img src="./GAN/InfoGan/images/InfoGan_Inference.PNG">
 ### Generate samples
 ```
 > python Generate_Mnist.py
 ```
 
+<img align='center' img src="./GAN/InfoGan/images/InfoGan_Generate.PNG">
 ### Plot images
 ```
 > python Plot.py
 ```
+
+<img align='center' img src="./GAN/InfoGan/images/InfoGan_Plot.PNG">
