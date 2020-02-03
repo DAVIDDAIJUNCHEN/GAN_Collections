@@ -2,10 +2,14 @@
 
 ## Overview
 
-GAN and some variants implementation.
+GAN (generative adversial networks) and some variants implementation.
 
 ### Lists of GAN and its variants implementation
-* 
+* InfoGan: infomative GAN model.
+* AeGan: auto-encoder GAN model.
+* WGan-GP: Wasserstein GAN model with gradient peanlty. 
+* LsGan: least-square GAN model.
+* Gan-cls: LSGAN model with features and labels together in input of discriminator.
 
 ## Requirements
 
