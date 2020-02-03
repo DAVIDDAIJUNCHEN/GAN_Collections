@@ -25,7 +25,7 @@ To train/infer/generate GAN models, you may need to run codes by following the s
 
 ```
 
-<img align='center' img src="./GAN/InfoGan/images/InfoGAN_Train.png">
+<img align='center' img src="./GAN/InfoGan/images/InfoGan_Train.png">
 
 ### Infer (classification) a new sample in GAN models
 ```
