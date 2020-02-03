@@ -30,7 +30,7 @@ the below steps are based on InfoGAN model, others have similar steps,
 
 <img align='center' img src="./GAN/InfoGan/images/InfoGan_Train.PNG">
 
-### Infer (classification) a new sample in GAN models
+### Infer (classify) a new sample in GAN models
 
 ```
 > python Inference_Mnist.py
