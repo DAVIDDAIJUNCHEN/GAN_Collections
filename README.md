@@ -21,7 +21,7 @@ GAN (generative adversial networks) and some variants implementation.
 To train/infer/generate GAN models, you may need to run codes by following the steps in each model folder:
 ### Train GAN models,
 '''
-> python Train_Mnist.py
+> python Train_Mnist.py 
 '''
 
 ### Infer (classification) a new sample in GAN models,
