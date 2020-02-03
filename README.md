@@ -4,7 +4,7 @@
 
 GAN (generative adversial networks) and some variants implementation.
 
-### Lists of GAN and its variants:
+### List of GAN and its variants:
 * InfoGan: infomative GAN model.
 * AeGan: auto-encoder GAN model.
 * WGan-GP: Wasserstein GAN model with gradient peanlty. 
@@ -20,6 +20,9 @@ GAN (generative adversial networks) and some variants implementation.
 
 To train/infer/generate GAN models, you may need to run codes by following the steps in each model folder:
 ### Train GAN models,
+'''
+> python Train_Mnist.py
+'''
 
 ### Infer (classification) a new sample in GAN models,
 
