@@ -1,4 +1,4 @@
-# GAN_Collections
+# GAN Model Collection
 
 ## Overview
 
