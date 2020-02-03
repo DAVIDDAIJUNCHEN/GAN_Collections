@@ -22,6 +22,7 @@ To train/infer/generate GAN models, you may need to run codes by following the s
 
 the below steps are based on InfoGAN model, others have similar steps,
 ### Train GAN models
+
 ```
 > python Train_Mnist.py 
 
@@ -30,18 +31,23 @@ the below steps are based on InfoGAN model, others have similar steps,
 <img align='center' img src="./GAN/InfoGan/images/InfoGan_Train.PNG">
 
 ### Infer (classification) a new sample in GAN models
+
 ```
 > python Inference_Mnist.py
 ```
 
 <img align='center' img src="./GAN/InfoGan/images/InfoGan_Inference.PNG">
+
 ### Generate samples
+
 ```
 > python Generate_Mnist.py
 ```
 
 <img align='center' img src="./GAN/InfoGan/images/InfoGan_Generate.PNG">
+
 ### Plot images
+
 ```
 > python Plot.py
 ```
