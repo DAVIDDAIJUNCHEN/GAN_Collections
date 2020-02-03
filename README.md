@@ -24,6 +24,7 @@ To train/infer/generate GAN models, you may need to run codes by following the s
 > python Train_Mnist.py 
 
 ```
+<img align='center' img src="./img/InfoGAN_Train.png">
 
 ### Infer (classification) a new sample in GAN models
 ```
