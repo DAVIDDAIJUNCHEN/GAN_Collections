@@ -5,7 +5,7 @@
 GAN and some variants implementation.
 
 ### Lists of GAN and its variants implementation
-
+* 
 
 ## Requirements
 
