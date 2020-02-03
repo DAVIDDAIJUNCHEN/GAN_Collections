@@ -4,7 +4,7 @@
 
 GAN (generative adversial networks) and some variants implementation.
 
-### Lists of GAN and its variants implementation
+### Lists of GAN and its variants:
 * InfoGan: infomative GAN model.
 * AeGan: auto-encoder GAN model.
 * WGan-GP: Wasserstein GAN model with gradient peanlty. 
@@ -16,4 +16,6 @@ GAN (generative adversial networks) and some variants implementation.
 - [Python 3.5+](https://anaconda.org/anaconda/python)
 - [TensorFlow 1.3.0+](https://www.tensorflow.org/install/)
  
-## Usage
+## Usages
+
+To train/infer/generate GAN models, 
