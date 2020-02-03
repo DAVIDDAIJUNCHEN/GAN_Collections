@@ -19,11 +19,11 @@ GAN (generative adversial networks) and some variants implementation.
 ## Usages
 
 To train/infer/generate GAN models, you may need to run codes by following the steps in each model folder:
-* Train GAN models,
+### Train GAN models,
 
-* Infer (classification) a new sample in GAN models,
+### Infer (classification) a new sample in GAN models,
 
-* Generate samples, 
+### Generate samples, 
 
-* Plot images,
+### Plot images,
 
