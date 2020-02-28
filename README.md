@@ -43,7 +43,7 @@ the below steps are based on InfoGAN model, others have similar steps,
 ```
 > python Generate_Mnist.py
 ```
-
+ 
 <img align='center' img src="./GAN/InfoGan/images/InfoGan_Generate.PNG">
 
 ### Plot images
